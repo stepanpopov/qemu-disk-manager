@@ -1,5 +1,8 @@
 # qemu-disk-manager
 
+## download qemu boot image and mv it to ./images/boot
+https://cloud.mail.ru/public/HR4N/RA6rs2Ume
+
 ## create venv
 make make-venv
 
