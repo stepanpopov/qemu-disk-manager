@@ -1,0 +1,3 @@
+-[x] write qemu guest exec
+-[]? move script start_qemu to python (hardcode drives)
+-[]? make drives configurable
